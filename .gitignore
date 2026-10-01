@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+env/
+
+students.db
+
+.vscode/
+.idea/
+
+.pytest_cache/
